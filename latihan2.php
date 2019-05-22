@@ -1,5 +1,8 @@
-<?php $nilai = 50; if ($nilai >= 75) {
-    echo "Nilai Anda $nilai, Anda LULUS";
-} else {
-    echo "Nilai Anda $nilai, Anda GAGAL"; }
-?>
+<?php
+  $x=1;
+
+  do{
+    echo "Angka: $x <br>";
+    $x++;
+  } while ($x<=5;);
+ ?>

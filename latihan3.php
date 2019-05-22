@@ -1,9 +1,6 @@
 <?php
-  $user = "Amalina";
-  $pass = "123";
-  if ($user == "Amalina" && $pass == "123") {
-    echo "Login Berhasil";
-  } else {
-    echo "Login Gagal";
-  }
-  ?>
+for ($x=0; $x<=10; $x++)
+{
+  echo "Angka: $x <br>";
+}
+?>
